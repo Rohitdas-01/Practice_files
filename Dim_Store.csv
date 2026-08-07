@@ -1,0 +1,17 @@
+StoreID,StoreName,City,State,Region,StoreType,OpenDate
+ST-001,Mumbai Retail Hub,Mumbai,Maharashtra,West,Retail Store,2020-10-30
+ST-002,Pune Retail Hub,Pune,Maharashtra,West,Retail Store,2019-03-22
+ST-003,Ahmedabad Retail Hub,Ahmedabad,Gujarat,West,Retail Store,2019-01-23
+ST-004,Delhi Retail Hub,Delhi,Delhi,North,Retail Store,2022-02-02
+ST-005,Gurugram Retail Hub,Gurugram,Haryana,North,Retail Store,2019-06-21
+ST-006,Chandigarh Retail Hub,Chandigarh,Punjab,North,Retail Store,2019-08-20
+ST-007,Bengaluru Retail Hub,Bengaluru,Karnataka,South,Retail Store,2019-11-11
+ST-008,Chennai Retail Hub,Chennai,Tamil Nadu,South,Retail Store,2022-04-04
+ST-009,Hyderabad Retail Hub,Hyderabad,Telangana,South,Retail Store,2021-05-13
+ST-010,Kolkata Retail Hub,Kolkata,West Bengal,East,Retail Store,2020-11-15
+ST-011,Patna Retail Hub,Patna,Bihar,East,Retail Store,2020-02-08
+ST-012,Ranchi Retail Hub,Ranchi,Jharkhand,East,Retail Store,2022-02-06
+ST-013,Jaipur Retail Hub,Jaipur,Rajasthan,North,Retail Store,2019-11-28
+ST-014,Lucknow Retail Hub,Lucknow,Uttar Pradesh,North,Retail Store,2019-02-02
+ST-015,Kochi Retail Hub,Kochi,Kerala,South,Retail Store,2021-09-23
+ST-000,Online Store,N/A,N/A,All India,Online,2023-01-01
