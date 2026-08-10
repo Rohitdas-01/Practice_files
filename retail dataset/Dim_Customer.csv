@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Gender,AgeGroup,City,State,Region,CustomerSegment,LoyaltyTier,JoinDate
+CUST-0001,Reyansh Chauhan,Female,18-25,Patna,Bihar,East,Consumer,Silver,2022-10-22
+CUST-0002,Olivia Iyer,Female,18-25,Chennai,Tamil Nadu,South,Corporate,Platinum,2021-03-09
+CUST-0003,Vivaan Sharma,Female,26-35,Ranchi,Jharkhand,East,Consumer,Gold,2022-02-22
+CUST-0004,Rohan Joshi,Male,36-45,Ahmedabad,Gujarat,West,Consumer,Gold,2020-08-09
+CUST-0005,James Das,Female,56+,Bengaluru,Karnataka,South,Corporate,Silver,2022-04-03
+CUST-0006,James Verma,Male,18-25,Delhi,Delhi,North,Consumer,Silver,2022-10-02
+CUST-0007,Aadhya Malhotra,Female,26-35,Delhi,Delhi,North,Consumer,Gold,2021-06-19
+CUST-0008,Emma Bhat,Female,46-55,Kolkata,West Bengal,East,Consumer,Platinum,2021-06-25
+CUST-0009,Krishna Chatterjee,Male,26-35,Bengaluru,Karnataka,South,Consumer,Silver,2022-04-25
+CUST-0010,James Bose,Female,18-25,Hyderabad,Telangana,South,Home Office,Gold,2022-07-29
+CUST-0011,Diya Singh,Female,36-45,Chennai,Tamil Nadu,South,Corporate,Gold,2022-10-31
+CUST-0012,Arjun Mehta,Female,46-55,Bengaluru,Karnataka,South,Consumer,Silver,2022-11-22
+CUST-0013,Liam Reddy,Female,46-55,Ahmedabad,Gujarat,West,Consumer,Silver,2021-02-17
+CUST-0014,Aadhya Gupta,Female,46-55,Mumbai,Maharashtra,West,Consumer,Gold,2022-12-28
+CUST-0015,Myra Mehta,Male,46-55,Ranchi,Jharkhand,East,Consumer,Gold,2021-09-28
+CUST-0016,Vihaan Reddy,Male,36-45,Bengaluru,Karnataka,South,Consumer,Silver,2022-05-16
+CUST-0017,William Pillai,Female,46-55,Chandigarh,Punjab,North,Corporate,Platinum,2020-10-28
+CUST-0018,Sophia Rao,Female,36-45,Ranchi,Jharkhand,East,Corporate,Platinum,2022-01-27
+CUST-0019,Reyansh Sharma,Female,18-25,Mumbai,Maharashtra,West,Consumer,Silver,2021-12-21
+CUST-0020,Sai Singh,Male,36-45,Patna,Bihar,East,Consumer,Silver,2021-03-24
+CUST-0021,William Das,Male,26-35,Delhi,Delhi,North,Consumer,Gold,2022-09-11
+CUST-0022,Aditya Malhotra,Female,26-35,Gurugram,Haryana,North,Home Office,Silver,2021-04-17
+CUST-0023,Liam Reddy,Male,18-25,Mumbai,Maharashtra,West,Consumer,Platinum,2021-12-13
+CUST-0024,Liam Iyer,Male,26-35,Bengaluru,Karnataka,South,Corporate,Silver,2022-06-13
+CUST-0025,Vivaan Nair,Male,46-55,Chandigarh,Punjab,North,Consumer,Silver,2021-08-09
+CUST-0026,Mason Gupta,Female,18-25,Delhi,Delhi,North,Consumer,Silver,2020-11-29
+CUST-0027,Reyansh Chauhan,Male,46-55,Hyderabad,Telangana,South,Corporate,Gold,2021-04-02
+CUST-0028,Kiara Mehta,Female,46-55,Ahmedabad,Gujarat,West,Consumer,Gold,2022-04-14
+CUST-0029,Vivaan Sharma,Female,36-45,Ranchi,Jharkhand,East,Consumer,Silver,2021-10-06
+CUST-0030,Aarohi Joshi,Female,46-55,Ahmedabad,Gujarat,West,Corporate,Silver,2021-11-24
+CUST-0031,Krishna Iyer,Female,18-25,Chandigarh,Punjab,North,Consumer,Gold,2022-09-20
+CUST-0032,Mason Bhat,Female,36-45,Pune,Maharashtra,West,Consumer,Gold,2021-01-26
+CUST-0033,Aarav Chatterjee,Female,36-45,Gurugram,Haryana,North,Corporate,Gold,2020-10-08
+CUST-0034,Aarav Joshi,Female,26-35,Ranchi,Jharkhand,East,Consumer,Platinum,2020-08-02
+CUST-0035,Anika Singh,Female,36-45,Patna,Bihar,East,Consumer,Silver,2022-12-06
+CUST-0036,Arjun Joshi,Male,36-45,Ahmedabad,Gujarat,West,Consumer,Platinum,2021-08-04
+CUST-0037,Mason Chatterjee,Male,18-25,Gurugram,Haryana,North,Home Office,Silver,2021-08-02
+CUST-0038,James Gupta,Male,26-35,Ranchi,Jharkhand,East,Home Office,Silver,2022-09-08
+CUST-0039,Kiara Mehta,Female,18-25,Chandigarh,Punjab,North,Consumer,Gold,2021-06-11
+CUST-0040,Liam Verma,Female,36-45,Patna,Bihar,East,Corporate,Gold,2021-08-30
+CUST-0041,Aarohi Patel,Male,26-35,Kolkata,West Bengal,East,Corporate,Silver,2020-12-04
+CUST-0042,Reyansh Iyer,Male,26-35,Delhi,Delhi,North,Consumer,Platinum,2022-02-15
+CUST-0043,Myra Verma,Female,18-25,Pune,Maharashtra,West,Consumer,Gold,2020-10-24
+CUST-0044,Mason Malhotra,Female,26-35,Delhi,Delhi,North,Consumer,Gold,2021-02-19
+CUST-0045,James Rao,Male,46-55,Ranchi,Jharkhand,East,Consumer,Silver,2022-12-28
+CUST-0046,Aditya Singh,Female,36-45,Delhi,Delhi,North,Consumer,Gold,2021-03-17
+CUST-0047,Anika Reddy,Male,26-35,Kolkata,West Bengal,East,Corporate,Silver,2022-09-07
+CUST-0048,Ava Sharma,Female,36-45,Pune,Maharashtra,West,Corporate,Silver,2022-09-28
+CUST-0049,Aarohi Patel,Female,18-25,Gurugram,Haryana,North,Consumer,Silver,2020-11-03
+CUST-0050,Emma Chatterjee,Male,26-35,Ranchi,Jharkhand,East,Home Office,Silver,2022-10-25
+CUST-0051,Aarohi Joshi,Male,26-35,Gurugram,Haryana,North,Corporate,Silver,2021-06-30
+CUST-0052,Emma Reddy,Male,18-25,Delhi,Delhi,North,Home Office,Gold,2020-10-22
+CUST-0053,Olivia Reddy,Male,36-45,Delhi,Delhi,North,Consumer,Gold,2022-12-17
+CUST-0054,William Chauhan,Female,18-25,Chennai,Tamil Nadu,South,Corporate,Gold,2021-02-11
+CUST-0055,Diya Gupta,Female,26-35,Mumbai,Maharashtra,West,Consumer,Silver,2021-11-11
+CUST-0056,Aadhya Verma,Female,18-25,Ahmedabad,Gujarat,West,Consumer,Gold,2020-12-09
+CUST-0057,Ava Verma,Male,36-45,Ahmedabad,Gujarat,West,Consumer,Platinum,2021-04-25
+CUST-0058,Olivia Iyer,Female,36-45,Hyderabad,Telangana,South,Consumer,Gold,2022-03-31
+CUST-0059,Aditya Malhotra,Male,46-55,Ahmedabad,Gujarat,West,Consumer,Platinum,2021-07-03
+CUST-0060,Arjun Rao,Female,36-45,Mumbai,Maharashtra,West,Consumer,Platinum,2021-02-06
+CUST-0061,Isabella Chauhan,Male,18-25,Hyderabad,Telangana,South,Consumer,Platinum,2022-01-25
+CUST-0062,Anika Rao,Female,36-45,Hyderabad,Telangana,South,Consumer,Silver,2021-10-04
+CUST-0063,Aarohi Reddy,Male,36-45,Ahmedabad,Gujarat,West,Corporate,Gold,2021-12-02
+CUST-0064,Noah Patel,Female,56+,Gurugram,Haryana,North,Consumer,Gold,2022-11-21
+CUST-0065,Mason Kapoor,Female,36-45,Patna,Bihar,East,Corporate,Platinum,2021-03-15
+CUST-0066,Sai Patel,Male,46-55,Chennai,Tamil Nadu,South,Consumer,Gold,2022-07-16
+CUST-0067,Sai Pillai,Female,46-55,Chennai,Tamil Nadu,South,Consumer,Platinum,2021-08-24
+CUST-0068,Saanvi Iyer,Female,26-35,Delhi,Delhi,North,Consumer,Gold,2022-10-24
+CUST-0069,Rohan Pillai,Male,18-25,Bengaluru,Karnataka,South,Consumer,Silver,2022-08-29
+CUST-0070,Sophia Singh,Female,26-35,Hyderabad,Telangana,South,Consumer,Silver,2023-01-01
+CUST-0071,Noah Sharma,Female,18-25,Chandigarh,Punjab,North,Home Office,Silver,2022-09-07
+CUST-0072,James Joshi,Female,18-25,Chandigarh,Punjab,North,Consumer,Platinum,2022-06-03
+CUST-0073,Kiara Kulkarni,Female,26-35,Hyderabad,Telangana,South,Corporate,Gold,2022-03-03
+CUST-0074,Aarohi Kapoor,Female,46-55,Ranchi,Jharkhand,East,Consumer,Gold,2022-02-06
+CUST-0075,Krishna Iyer,Male,36-45,Kolkata,West Bengal,East,Consumer,Platinum,2021-03-25
+CUST-0076,William Malhotra,Female,26-35,Hyderabad,Telangana,South,Consumer,Silver,2021-01-08
+CUST-0077,Sai Bhat,Female,46-55,Ahmedabad,Gujarat,West,Consumer,Platinum,2022-04-21
+CUST-0078,William Bose,Male,46-55,Gurugram,Haryana,North,Consumer,Platinum,2022-09-05
+CUST-0079,Ananya Malhotra,Male,18-25,Mumbai,Maharashtra,West,Consumer,Silver,2021-05-02
+CUST-0080,Sophia Malhotra,Female,46-55,Gurugram,Haryana,North,Consumer,Gold,2020-08-22
+CUST-0081,Rohan Mehta,Male,26-35,Ahmedabad,Gujarat,West,Consumer,Silver,2022-08-10
+CUST-0082,Vihaan Sharma,Female,26-35,Mumbai,Maharashtra,West,Consumer,Gold,2021-09-01
+CUST-0083,Vivaan Gupta,Female,36-45,Patna,Bihar,East,Consumer,Platinum,2022-03-02
+CUST-0084,Noah Malhotra,Female,36-45,Bengaluru,Karnataka,South,Corporate,Platinum,2022-06-09
+CUST-0085,Sophia Verma,Female,26-35,Chandigarh,Punjab,North,Consumer,Platinum,2022-03-02
+CUST-0086,Riya Nair,Male,36-45,Mumbai,Maharashtra,West,Home Office,Platinum,2022-02-01
+CUST-0087,Vihaan Mehta,Male,26-35,Chennai,Tamil Nadu,South,Consumer,Platinum,2021-11-27
+CUST-0088,James Verma,Male,18-25,Patna,Bihar,East,Consumer,Silver,2022-11-20
+CUST-0089,Ananya Joshi,Male,26-35,Chennai,Tamil Nadu,South,Home Office,Silver,2020-07-16
+CUST-0090,Mason Bhat,Male,18-25,Kolkata,West Bengal,East,Consumer,Silver,2022-11-12
+CUST-0091,James Nair,Male,26-35,Mumbai,Maharashtra,West,Consumer,Gold,2021-03-28
+CUST-0092,Saanvi Das,Male,36-45,Kolkata,West Bengal,East,Consumer,Silver,2022-04-28
+CUST-0093,Aarohi Malhotra,Female,36-45,Kolkata,West Bengal,East,Consumer,Silver,2020-10-20
+CUST-0094,Olivia Chatterjee,Male,26-35,Kolkata,West Bengal,East,Corporate,Silver,2022-12-05
+CUST-0095,Olivia Pillai,Female,36-45,Bengaluru,Karnataka,South,Consumer,Silver,2022-12-30
+CUST-0096,Ava Nair,Male,26-35,Ahmedabad,Gujarat,West,Consumer,Silver,2020-08-02
+CUST-0097,Noah Malhotra,Male,18-25,Bengaluru,Karnataka,South,Home Office,Gold,2022-10-08
+CUST-0098,Vihaan Mehta,Male,18-25,Ahmedabad,Gujarat,West,Consumer,Gold,2022-05-14
+CUST-0099,Krishna Singh,Male,26-35,Mumbai,Maharashtra,West,Consumer,Gold,2020-12-15
+CUST-0100,Vivaan Bose,Female,18-25,Chandigarh,Punjab,North,Consumer,Silver,2020-12-22
+CUST-0101,Aarohi Iyer,Male,18-25,Patna,Bihar,East,Home Office,Silver,2021-10-13
+CUST-0102,Anika Singh,Female,46-55,Gurugram,Haryana,North,Consumer,Platinum,2021-07-03
+CUST-0103,Myra Nair,Male,36-45,Chandigarh,Punjab,North,Corporate,Gold,2020-08-04
+CUST-0104,Ananya Singh,Female,26-35,Kolkata,West Bengal,East,Home Office,Gold,2021-10-24
+CUST-0105,Riya Sharma,Female,36-45,Delhi,Delhi,North,Corporate,Silver,2022-09-11
+CUST-0106,Isabella Kapoor,Female,18-25,Delhi,Delhi,North,Consumer,Silver,2020-09-09
+CUST-0107,Liam Mehta,Male,46-55,Ranchi,Jharkhand,East,Consumer,Gold,2020-07-18
+CUST-0108,Ira Das,Male,26-35,Patna,Bihar,East,Home Office,Gold,2021-07-01
+CUST-0109,Diya Bhat,Female,26-35,Gurugram,Haryana,North,Consumer,Platinum,2021-12-22
+CUST-0110,Emma Singh,Female,46-55,Patna,Bihar,East,Corporate,Silver,2020-08-12
+CUST-0111,Anika Chatterjee,Male,46-55,Kolkata,West Bengal,East,Consumer,Gold,2021-06-07
+CUST-0112,Reyansh Singh,Male,36-45,Ahmedabad,Gujarat,West,Consumer,Silver,2021-04-05
+CUST-0113,Aarav Kulkarni,Female,36-45,Bengaluru,Karnataka,South,Consumer,Platinum,2020-10-03
+CUST-0114,Reyansh Pillai,Male,46-55,Chennai,Tamil Nadu,South,Corporate,Gold,2021-06-27
+CUST-0115,Reyansh Iyer,Male,26-35,Chandigarh,Punjab,North,Corporate,Silver,2021-10-18
+CUST-0116,Emma Verma,Female,26-35,Kolkata,West Bengal,East,Corporate,Silver,2021-08-03
+CUST-0117,Vihaan Bose,Male,36-45,Chennai,Tamil Nadu,South,Consumer,Silver,2021-02-05
+CUST-0118,Saanvi Verma,Female,36-45,Patna,Bihar,East,Corporate,Gold,2022-09-29
+CUST-0119,Riya Kapoor,Female,26-35,Kolkata,West Bengal,East,Consumer,Platinum,2020-08-13
+CUST-0120,Diya Bose,Female,18-25,Chennai,Tamil Nadu,South,Home Office,Platinum,2022-06-06
+CUST-0121,Vihaan Joshi,Female,36-45,Delhi,Delhi,North,Consumer,Gold,2022-08-22
+CUST-0122,Ava Das,Female,56+,Chandigarh,Punjab,North,Home Office,Silver,2022-11-12
+CUST-0123,Aadhya Reddy,Female,18-25,Gurugram,Haryana,North,Home Office,Platinum,2022-01-21
+CUST-0124,Liam Pillai,Male,36-45,Chennai,Tamil Nadu,South,Consumer,Gold,2021-03-12
+CUST-0125,Ava Das,Male,46-55,Ahmedabad,Gujarat,West,Home Office,Silver,2021-06-06
+CUST-0126,William Verma,Female,18-25,Patna,Bihar,East,Home Office,Silver,2021-07-22
+CUST-0127,Noah Patel,Male,26-35,Delhi,Delhi,North,Corporate,Silver,2021-01-22
+CUST-0128,Ava Bhat,Male,56+,Gurugram,Haryana,North,Consumer,Silver,2022-11-14
+CUST-0129,Sophia Singh,Female,18-25,Mumbai,Maharashtra,West,Corporate,Silver,2022-02-09
+CUST-0130,Anika Malhotra,Male,46-55,Chennai,Tamil Nadu,South,Consumer,Gold,2022-12-14
+CUST-0131,Sophia Malhotra,Female,18-25,Pune,Maharashtra,West,Consumer,Platinum,2022-05-25
+CUST-0132,Reyansh Gupta,Female,36-45,Kolkata,West Bengal,East,Corporate,Platinum,2021-10-01
+CUST-0133,Kiara Patel,Female,26-35,Chennai,Tamil Nadu,South,Consumer,Gold,2020-09-21
+CUST-0134,Krishna Kulkarni,Female,36-45,Gurugram,Haryana,North,Corporate,Gold,2021-06-02
+CUST-0135,Olivia Chatterjee,Female,26-35,Chennai,Tamil Nadu,South,Corporate,Silver,2020-10-10
+CUST-0136,Liam Joshi,Female,36-45,Pune,Maharashtra,West,Corporate,Silver,2022-12-26
+CUST-0137,Anika Iyer,Female,46-55,Ranchi,Jharkhand,East,Consumer,Silver,2022-10-12
+CUST-0138,Vivaan Gupta,Male,36-45,Bengaluru,Karnataka,South,Consumer,Gold,2022-09-05
+CUST-0139,Vivaan Rao,Female,46-55,Ahmedabad,Gujarat,West,Consumer,Gold,2021-08-20
+CUST-0140,William Chatterjee,Male,26-35,Bengaluru,Karnataka,South,Consumer,Gold,2022-08-27
+CUST-0141,Vivaan Bose,Male,36-45,Hyderabad,Telangana,South,Consumer,Silver,2022-01-08
+CUST-0142,Mason Bose,Female,46-55,Pune,Maharashtra,West,Consumer,Gold,2021-01-05
+CUST-0143,Ishaan Nair,Male,26-35,Pune,Maharashtra,West,Corporate,Silver,2022-12-16
+CUST-0144,Emma Nair,Male,36-45,Patna,Bihar,East,Consumer,Gold,2022-07-18
+CUST-0145,Ira Chatterjee,Female,18-25,Pune,Maharashtra,West,Corporate,Silver,2020-10-02
+CUST-0146,James Kapoor,Male,36-45,Chennai,Tamil Nadu,South,Consumer,Gold,2022-12-22
+CUST-0147,Vivaan Kulkarni,Male,26-35,Chennai,Tamil Nadu,South,Consumer,Gold,2020-12-05
+CUST-0148,Anika Gupta,Female,56+,Delhi,Delhi,North,Consumer,Gold,2021-08-29
+CUST-0149,Vivaan Das,Female,26-35,Hyderabad,Telangana,South,Corporate,Silver,2022-03-12
+CUST-0150,Reyansh Gupta,Female,36-45,Ahmedabad,Gujarat,West,Consumer,Gold,2021-08-22
+CUST-0151,Anika Reddy,Male,56+,Ranchi,Jharkhand,East,Consumer,Silver,2020-10-07
+CUST-0152,Isabella Joshi,Female,46-55,Chennai,Tamil Nadu,South,Corporate,Gold,2022-01-28
+CUST-0153,Sai Singh,Male,26-35,Hyderabad,Telangana,South,Home Office,Platinum,2021-09-23
+CUST-0154,Myra Mehta,Male,36-45,Bengaluru,Karnataka,South,Home Office,Silver,2021-11-27
+CUST-0155,James Patel,Female,56+,Hyderabad,Telangana,South,Home Office,Silver,2020-08-02
+CUST-0156,Isabella Chauhan,Female,36-45,Bengaluru,Karnataka,South,Corporate,Silver,2021-11-26
+CUST-0157,Diya Bose,Female,26-35,Pune,Maharashtra,West,Corporate,Silver,2022-08-24
+CUST-0158,Myra Malhotra,Female,36-45,Delhi,Delhi,North,Consumer,Silver,2022-01-18
+CUST-0159,Diya Verma,Female,18-25,Bengaluru,Karnataka,South,Home Office,Gold,2020-12-24
+CUST-0160,Aditya Patel,Female,26-35,Delhi,Delhi,North,Consumer,Gold,2022-12-04
+CUST-0161,Olivia Rao,Male,26-35,Hyderabad,Telangana,South,Consumer,Gold,2022-04-11
+CUST-0162,Ira Gupta,Female,36-45,Chennai,Tamil Nadu,South,Consumer,Silver,2021-03-03
+CUST-0163,James Chatterjee,Male,36-45,Hyderabad,Telangana,South,Consumer,Platinum,2021-11-29
+CUST-0164,Mason Reddy,Male,46-55,Patna,Bihar,East,Home Office,Silver,2021-12-18
+CUST-0165,Saanvi Verma,Female,26-35,Hyderabad,Telangana,South,Home Office,Gold,2021-01-21
+CUST-0166,James Pillai,Male,26-35,Kolkata,West Bengal,East,Consumer,Gold,2022-09-17
+CUST-0167,Sai Reddy,Female,46-55,Gurugram,Haryana,North,Home Office,Platinum,2022-11-09
+CUST-0168,Mason Mehta,Male,56+,Ahmedabad,Gujarat,West,Home Office,Silver,2021-02-11
+CUST-0169,Saanvi Kulkarni,Female,46-55,Hyderabad,Telangana,South,Consumer,Silver,2022-02-07
+CUST-0170,William Das,Female,46-55,Ahmedabad,Gujarat,West,Corporate,Gold,2020-12-25
+CUST-0171,William Verma,Male,26-35,Chennai,Tamil Nadu,South,Corporate,Silver,2022-08-31
+CUST-0172,Sai Reddy,Female,18-25,Ranchi,Jharkhand,East,Home Office,Silver,2021-02-13
+CUST-0173,Isabella Pillai,Male,36-45,Kolkata,West Bengal,East,Consumer,Silver,2022-02-13
+CUST-0174,Sai Pillai,Female,46-55,Chennai,Tamil Nadu,South,Corporate,Gold,2022-10-02
+CUST-0175,Noah Mehta,Female,26-35,Delhi,Delhi,North,Home Office,Platinum,2022-06-25
+CUST-0176,Noah Pillai,Male,26-35,Bengaluru,Karnataka,South,Corporate,Silver,2021-11-02
+CUST-0177,Vihaan Verma,Male,18-25,Ranchi,Jharkhand,East,Consumer,Gold,2022-03-13
+CUST-0178,Krishna Verma,Female,46-55,Ranchi,Jharkhand,East,Consumer,Gold,2021-10-11
+CUST-0179,Rohan Das,Male,18-25,Pune,Maharashtra,West,Corporate,Gold,2020-09-23
+CUST-0180,Riya Iyer,Male,36-45,Pune,Maharashtra,West,Consumer,Gold,2022-02-12
+CUST-0181,Aarav Bhat,Female,56+,Pune,Maharashtra,West,Corporate,Silver,2022-04-07
+CUST-0182,Mason Rao,Male,26-35,Bengaluru,Karnataka,South,Consumer,Gold,2022-12-04
+CUST-0183,Ava Verma,Female,18-25,Pune,Maharashtra,West,Home Office,Gold,2022-03-23
+CUST-0184,Mason Kapoor,Male,36-45,Delhi,Delhi,North,Corporate,Silver,2020-10-24
+CUST-0185,Ira Rao,Female,46-55,Chennai,Tamil Nadu,South,Home Office,Platinum,2021-05-08
+CUST-0186,Anika Reddy,Male,46-55,Ahmedabad,Gujarat,West,Consumer,Silver,2021-08-13
+CUST-0187,Ira Rao,Male,36-45,Pune,Maharashtra,West,Consumer,Silver,2022-04-06
+CUST-0188,Mason Singh,Female,18-25,Patna,Bihar,East,Corporate,Silver,2021-02-15
+CUST-0189,Olivia Gupta,Male,18-25,Delhi,Delhi,North,Consumer,Gold,2021-06-23
+CUST-0190,Riya Iyer,Male,18-25,Hyderabad,Telangana,South,Corporate,Silver,2021-02-23
+CUST-0191,Vivaan Singh,Male,18-25,Patna,Bihar,East,Consumer,Silver,2022-10-30
+CUST-0192,Aadhya Kulkarni,Female,36-45,Chandigarh,Punjab,North,Home Office,Platinum,2021-07-07
+CUST-0193,Ananya Pillai,Male,56+,Chennai,Tamil Nadu,South,Consumer,Silver,2021-06-28
+CUST-0194,Emma Chauhan,Female,56+,Mumbai,Maharashtra,West,Consumer,Gold,2021-01-18
+CUST-0195,Ishaan Bose,Male,26-35,Mumbai,Maharashtra,West,Consumer,Gold,2021-05-23
+CUST-0196,Aadhya Bhat,Male,18-25,Pune,Maharashtra,West,Corporate,Gold,2022-09-18
+CUST-0197,Sai Das,Male,36-45,Chandigarh,Punjab,North,Corporate,Platinum,2022-10-21
+CUST-0198,Kiara Chauhan,Male,46-55,Patna,Bihar,East,Consumer,Gold,2021-12-15
+CUST-0199,Ava Gupta,Female,18-25,Hyderabad,Telangana,South,Consumer,Silver,2021-02-01
+CUST-0200,Saanvi Bose,Male,26-35,Ahmedabad,Gujarat,West,Corporate,Platinum,2022-09-02

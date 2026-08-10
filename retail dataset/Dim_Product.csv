@@ -1,0 +1,81 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice
+PROD-0001,Nova Smart Lite,Electronics,Smart Watches,Nova,2426.12,4530.0
+PROD-0002,Pulse Smart Lite,Electronics,Smart Watches,Pulse,20361.11,33460.0
+PROD-0003,Sonic Headphones Pro,Electronics,Headphones,Sonic,3136.74,6190.0
+PROD-0004,Nova Smart Watche Plus,Electronics,Smart Watches,Nova,17922.86,26120.0
+PROD-0005,Pulse Camera Neo,Electronics,Cameras,Pulse,20544.28,33510.0
+PROD-0006,Zentek Smart Watche Classic,Electronics,Smart Watches,Zentek,20923.79,30230.0
+PROD-0007,Nova Laptops Max,Electronics,Laptops,Nova,25478.18,36360.0
+PROD-0008,Nova Smart Air,Electronics,Smart Watches,Nova,10516.89,15680.0
+PROD-0009,Pulse Laptops Classic,Electronics,Laptops,Pulse,14479.88,23630.0
+PROD-0010,Sonic Smart Prime,Electronics,Smart Watches,Sonic,11300.17,16340.0
+PROD-0011,Pulse Mobiles Edge,Electronics,Mobiles,Pulse,19504.14,36390.0
+PROD-0012,Zentek Camera Prime,Electronics,Cameras,Zentek,25982.83,51760.0
+PROD-0013,Sonic Camera Classic,Electronics,Cameras,Sonic,8688.15,15750.0
+PROD-0014,Sonic Laptops Plus,Electronics,Laptops,Sonic,14704.74,21550.0
+PROD-0015,Pulse Headphones Edge,Electronics,Headphones,Pulse,23074.85,42990.0
+PROD-0016,Sonic Headphone Prime,Electronics,Headphones,Sonic,14008.18,22690.0
+PROD-0017,Zenith Accessories Plus,Fashion,Accessories,Zenith,2135.25,3090.0
+PROD-0018,Threadly Women Plus,Fashion,Women Apparel,Threadly,407.13,660.0
+PROD-0019,Urbane Women Ultra,Fashion,Women Apparel,Urbane,1835.11,3340.0
+PROD-0020,Wearhouse Men Neo,Fashion,Men Apparel,Wearhouse,1131.44,1850.0
+PROD-0021,Urbane Accessories Edge,Fashion,Accessories,Urbane,1698.88,2610.0
+PROD-0022,Urbane Women Max,Fashion,Women Apparel,Urbane,2634.19,4390.0
+PROD-0023,Zenith Footwear Plus,Fashion,Footwear,Zenith,1503.84,2850.0
+PROD-0024,Threadly Accessorie Pro,Fashion,Accessories,Threadly,862.05,1330.0
+PROD-0025,Zenith Footwear Classic,Fashion,Footwear,Zenith,617.8,1120.0
+PROD-0026,Threadly Footwear Neo,Fashion,Footwear,Threadly,2460.63,3440.0
+PROD-0027,Threadly Women Prime,Fashion,Women Apparel,Threadly,1037.85,1520.0
+PROD-0028,Zenith Men Plus,Fashion,Men Apparel,Zenith,621.01,920.0
+PROD-0029,Urbane Men Ultra,Fashion,Men Apparel,Urbane,896.49,1390.0
+PROD-0030,Urbane Accessories Classic,Fashion,Accessories,Urbane,1764.66,3060.0
+PROD-0031,Urbane Footwear Edge,Fashion,Footwear,Urbane,3154.36,4390.0
+PROD-0032,Urbane Men Max,Fashion,Men Apparel,Urbane,906.53,1730.0
+PROD-0033,Livo Cookware Classic,Home & Kitchen,Cookware,Livo,4450.47,6880.0
+PROD-0034,Livo Furniture Pro,Home & Kitchen,Furniture,Livo,10039.58,17620.0
+PROD-0035,Livo Appliances Neo,Home & Kitchen,Appliances,Livo,5574.09,11120.0
+PROD-0036,NestWell Decor Edge,Home & Kitchen,Decor,NestWell,8231.89,14060.0
+PROD-0037,HomeCraft Cookware Classic,Home & Kitchen,Cookware,HomeCraft,6659.18,11140.0
+PROD-0038,NestWell Furniture Neo,Home & Kitchen,Furniture,NestWell,7938.77,12270.0
+PROD-0039,Livo Furniture Prime,Home & Kitchen,Furniture,Livo,6354.22,10260.0
+PROD-0040,Livo Appliances Ultra,Home & Kitchen,Appliances,Livo,4975.51,9840.0
+PROD-0041,Cozy Furniture Air,Home & Kitchen,Furniture,Cozy,7291.41,11810.0
+PROD-0042,Livo Furniture Ultra,Home & Kitchen,Furniture,Livo,10298.12,14500.0
+PROD-0043,NestWell Decor Edge,Home & Kitchen,Decor,NestWell,417.59,650.0
+PROD-0044,NestWell Appliances Lite,Home & Kitchen,Appliances,NestWell,4298.09,7910.0
+PROD-0045,Livo Furniture Plus,Home & Kitchen,Furniture,Livo,5548.21,9970.0
+PROD-0046,NestWell Furniture Prime,Home & Kitchen,Furniture,NestWell,11496.52,18630.0
+PROD-0047,Livo Appliances Plus,Home & Kitchen,Appliances,Livo,8153.66,12400.0
+PROD-0048,HomeCraft Furniture Neo,Home & Kitchen,Furniture,HomeCraft,5634.8,10690.0
+PROD-0049,FitPro Outdoor Pro,Sports & Fitness,Outdoor Gear,FitPro,1841.77,3260.0
+PROD-0050,FitPro Sportswear Plus,Sports & Fitness,Sportswear,FitPro,3053.81,4290.0
+PROD-0051,ActiveLife Sportswear Neo,Sports & Fitness,Sportswear,ActiveLife,7189.83,12350.0
+PROD-0052,ActiveLife Outdoor Ultra,Sports & Fitness,Outdoor Gear,ActiveLife,409.83,640.0
+PROD-0053,FitPro Sportswear Prime,Sports & Fitness,Sportswear,FitPro,7726.31,12030.0
+PROD-0054,FitPro Sportswear Pro,Sports & Fitness,Sportswear,FitPro,8857.68,12690.0
+PROD-0055,ActiveLife Sportswear Lite,Sports & Fitness,Sportswear,ActiveLife,6635.81,11840.0
+PROD-0056,PeakGear Outdoor Neo,Sports & Fitness,Outdoor Gear,PeakGear,8197.82,12260.0
+PROD-0057,ActiveLife Fitness Lite,Sports & Fitness,Fitness Equipment,ActiveLife,4859.52,9050.0
+PROD-0058,FitPro Sportswear Ultra,Sports & Fitness,Sportswear,FitPro,1938.33,3720.0
+PROD-0059,ActiveLife Outdoor Neo,Sports & Fitness,Outdoor Gear,ActiveLife,5793.35,9340.0
+PROD-0060,PeakGear Fitness Edge,Sports & Fitness,Fitness Equipment,PeakGear,4974.74,9700.0
+PROD-0061,ActiveLife Sportswear Neo,Sports & Fitness,Sportswear,ActiveLife,5967.9,9200.0
+PROD-0062,FitPro Sportswear Air,Sports & Fitness,Sportswear,FitPro,7130.03,10930.0
+PROD-0063,ActiveLife Sportswear Air,Sports & Fitness,Sportswear,ActiveLife,5334.22,9290.0
+PROD-0064,PeakGear Fitness Plus,Sports & Fitness,Fitness Equipment,PeakGear,2831.06,4410.0
+PROD-0065,Glowia Makeup Edge,Beauty & Personal Care,Makeup,Glowia,588.35,1070.0
+PROD-0066,Glowia Makeup Ultra,Beauty & Personal Care,Makeup,Glowia,839.25,1630.0
+PROD-0067,Blush Fragrance Lite,Beauty & Personal Care,Fragrances,Blush,1102.52,1970.0
+PROD-0068,Glowia Haircare Max,Beauty & Personal Care,Haircare,Glowia,785.71,1450.0
+PROD-0069,PureLeaf Makeup Air,Beauty & Personal Care,Makeup,PureLeaf,848.43,1180.0
+PROD-0070,PureLeaf Haircare Edge,Beauty & Personal Care,Haircare,PureLeaf,1243.69,1750.0
+PROD-0071,PureLeaf Makeup Pro,Beauty & Personal Care,Makeup,PureLeaf,257.61,430.0
+PROD-0072,Blush Fragrances Prime,Beauty & Personal Care,Fragrances,Blush,1539.02,2790.0
+PROD-0073,Glowia Haircare Pro,Beauty & Personal Care,Haircare,Glowia,1505.46,2250.0
+PROD-0074,PureLeaf Skincare Max,Beauty & Personal Care,Skincare,PureLeaf,1038.62,1630.0
+PROD-0075,Blush Fragrance Plus,Beauty & Personal Care,Fragrances,Blush,1654.39,2610.0
+PROD-0076,Glowia Haircare Max,Beauty & Personal Care,Haircare,Glowia,141.67,250.0
+PROD-0077,PureLeaf Skincare Edge,Beauty & Personal Care,Skincare,PureLeaf,714.48,1240.0
+PROD-0078,Glowia Skincare Air,Beauty & Personal Care,Skincare,Glowia,599.08,1020.0
+PROD-0079,PureLeaf Haircare Classic,Beauty & Personal Care,Haircare,PureLeaf,1137.67,1620.0
+PROD-0080,Glowia Fragrances Classic,Beauty & Personal Care,Fragrances,Glowia,768.92,1260.0
